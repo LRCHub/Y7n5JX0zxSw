@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GENTLEMAN",
+  "base_artist": "PSY",
+  "createdAt": "2026-02-19T12:12:26.277989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ahnma (ft. Gzuz & Gentleman)",
+      "artist": "Absolute Beginner",
+      "has_synced": true,
+      "path": "select/01_Ahnma_(ft._Gzuz_&_Gentleman)_Absolute_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "50 Cent - Be a Gentleman (Dissin Jay-Z)",
+      "artist": "P Cutta",
+      "has_synced": false,
+      "path": "select/02_50_Cent_-_Be_a_Gentleman_(Dissin_Jay-Z)_P_Cutta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfect Gentleman",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/03_Perfect_Gentleman_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gentleman",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/04_Gentleman_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gentleman",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/05_Gentleman_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gentleman (feat. Danny Brown) [d0llywood1 Remix]",
+      "artist": "Dorian Electra feat. Danny Brown & d0llywood1",
+      "has_synced": false,
+      "path": "select/06_Gentleman_(feat._Danny_Brown)_[d0llywood1_Remix]_Dorian_Electra_feat._Danny_Brown_&_d0llywood1.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gentleman (feat. Danny Brown) [d0llywood1 Remix]",
+      "artist": "Dorian Electra",
+      "has_synced": false,
+      "path": "select/07_Gentleman_(feat._Danny_Brown)_[d0llywood1_Remix]_Dorian_Electra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Gentleman Soldier",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/08_The_Gentleman_Soldier_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Gentleman Soldier (Traditional) (The Pogues' Version)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/09_The_Gentleman_Soldier_(Traditional)_(The_Pogues'_Version)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gentleman",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/10_Gentleman_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "His Name Is Legs (Ladies And Gentleman)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/11_His_Name_Is_Legs_(Ladies_And_Gentleman)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Country Gentleman",
+      "artist": "Ambulance Ltd",
+      "has_synced": false,
+      "path": "select/12_Country_Gentleman_Ambulance_Ltd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ladies And Gentleman: Miss Grace Jones",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/13_Ladies_And_Gentleman__Miss_Grace_Jones_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Haikuesque (The Gentleman Losers' Whispers in the Rain mix)",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/14_Haikuesque_(The_Gentleman_Losers'_Whispers_in_the_Rain_mix)_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gentleman",
+      "artist": "Emma Louise",
+      "has_synced": false,
+      "path": "select/15_Gentleman_Emma_Louise.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Music:Response - Gentleman Thief Mix",
+      "artist": "The Chemical Brothers feat. Gentleman Theif",
+      "has_synced": false,
+      "path": "select/16_Music_Response_-_Gentleman_Thief_Mix_The_Chemical_Brothers_feat._Gentleman_Theif.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Gentleman Caller",
+      "artist": "Cursive",
+      "has_synced": true,
+      "path": "select/17_A_Gentleman_Caller_Cursive.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Music:Response (Gentleman Thief Mix)",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/18_Music_Response_(Gentleman_Thief_Mix)_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gentleman",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_01_Gentleman_PSY.txt"
+    }
+  ]
+}
